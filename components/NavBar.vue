@@ -45,18 +45,18 @@ onMounted(() => {
     <div class="contents">
       <!-- <UDivider orientation="vertical" class="mx-2 h-4" /> -->
 
-      <UButton
+      <!-- <UButton
         variant="ghost"
         color="gray"
         size="xl"
         square
-        to="https://github.com/ShouChenICU/WebCamera"
+        to=" "
         target="_blank"
       >
         <template #leading>
           <Icon name="mdi:github" />
         </template>
-      </UButton>
+      </UButton> -->
 
       <UButton variant="ghost" color="gray" size="xl" square @click="switchI18n">
         <template #leading>
