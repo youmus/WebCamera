@@ -1,13 +1,13 @@
 <script setup>
 useSeoMeta({
-  ogImage: 'https://webcamera.cc/ogImg.webp',
+  ogImage: ' ',
   twitterCard: 'summary_large_image',
-  twitterTitle: 'WebCamera',
+  twitterTitle: 'OO',
   twitterDescription:
     'WebRTC-powered Peer-to-Peer webcam surveillance application for real-time monitoring platform.',
-  twitterImage: 'https://webcamera.cc/ogImg.webp',
-  twitterSite: 'https://webcamera.cc',
-  twitterCreator: '@ShouChen_'
+  twitterImage: ' ',
+  twitterSite: ' ',
+  twitterCreator: ' '
 })
 </script>
 
